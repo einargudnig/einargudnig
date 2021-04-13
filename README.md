@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @einargudnig
-- 👀 I’m interested in software development, technology, helath and much more.
+- 👀 I’m interested in software development, technology, health and much more.
 - 🌱 I’m currently learning about mental models, css, react
 - 📫 einargudnig@gmail.com
 
