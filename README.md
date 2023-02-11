@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @einargudnig
 - 💻 code + ☕ coffee + 🏋️‍♂️ crossfit
+- 🕸️ https://www.einargudni.com/
 - 📫 einargudnig@gmail.com
 
 
