@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @einargudnig
-- 👀 I’m interested in software development, technology, health and much more.
-- 🌱 I’m currently learning about typescript
+- 💻 code + ☕ coffee + 🏋️‍♂️ crossfit
 - 📫 einargudnig@gmail.com
 
 
