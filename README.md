@@ -3,6 +3,7 @@
 - 🕸️ https://www.einargudni.com/
 - 📫 einargudnig@gmail.com
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=einargudnig)](https://git.io/streak-stats)
 
 <!---
 einargudnig/einargudnig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
